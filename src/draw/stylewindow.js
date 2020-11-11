@@ -341,7 +341,7 @@ function Stylewindow(optOptions = {}) {
     target,
     closeIcon = '#ic_close_24px',
     style = '',
-    palette = ['rgb(166,206,227)', 'rgb(31,120,180)', 'rgb(178,223,138)', 'rgb(51,160,44)', 'rgb(251,154,153)', 'rgb(227,26,28)', 'rgb(253,191,111)']
+    palette = ['rgb(240,179,50)','rgb(234,84,49)','rgb(166,66,121)','rgb(59,159,106)','rgb(44,88,141)','rgb(140,130,132)','rgb(239,200,121)','rgb(239,143,118)','rgb(154,116,142)','rgb(178,194,162)','rgb(143,168,200)','rgb(230,227,228)',     'rgb(255,230,50)','rgb(236,31,1)','rgb(178,223,138)','rgb(51,160,44)','rgb(0,0,0)']
   } = optOptions;
 
   annotationField = optOptions.annotation || 'annonation';
